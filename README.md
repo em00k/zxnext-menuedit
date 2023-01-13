@@ -4,6 +4,7 @@ MenuEdit for the ZX Spectrum Next
 
 <img src="https://raw.githubusercontent.com/em00k/src-gifs/main/PIC-2023_01_13_21_58_27.png">
 
+Bumbling idiot walk through : https://www.youtube.com/watch?v=ecLf6MvCqtA
 
 NO WARRANTIES! 
 
