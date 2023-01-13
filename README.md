@@ -6,7 +6,7 @@ MenuEdit for the ZX Spectrum Next
 
 Bumbling idiot walk through : https://www.youtube.com/watch?v=ecLf6MvCqtA
 
-NO WARRANTIES! 
+NO WARRANTIES! MAKE SURE YOU ALWAYS BACK UP YOUR SD CARD SHOULD SOMETHING BREAK!!
 
 In NextZXOS v2.7 + you can edit the default
 menu items that appear on start up. This is 
