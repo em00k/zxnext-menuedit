@@ -1,9 +1,10 @@
-# zxnext-menuedit
- MenuEdit for ZX Spectrum Next 
-
 
 MenuEdit for the ZX Spectrum Next 
 ---------------------------------
+
+<img src="https://raw.githubusercontent.com/em00k/src-gifs/main/PIC-2023_01_13_21_58_27.png">
+
+
 NO WARRANTIES! 
 
 In NextZXOS v2.7 + you can edit the default
@@ -53,6 +54,8 @@ erase "c:\nextzxos\enmenu.cfg"
 Relaunch the tool, press m and choose Default menu
 and then Save Menu CFG 
 
-
 Enjoi! 
+
+
+
 
