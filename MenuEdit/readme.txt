@@ -1,7 +1,3 @@
-# zxnext-menuedit
- MenuEdit for ZX Spectrum Next 
-
-
 MenuEdit for the ZX Spectrum Next 
 ---------------------------------
 NO WARRANTIES! 
