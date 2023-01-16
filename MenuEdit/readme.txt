@@ -4,7 +4,7 @@ NO WARRANTIES!
 
 1.0 Inital Release 
 
-1.1 Bugs fixed 
+1.2 Bugs fixed 
 	enMenus.cfg not existing
 	Backup cfg file now works
 	Load cfg file now works
