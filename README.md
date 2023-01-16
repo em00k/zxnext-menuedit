@@ -5,11 +5,17 @@ MenuEdit 1.2 for the ZX Spectrum Next
 Version 1.2 : 15/01/23
 
   FIXED : Issue when no enMenus.cfg exist
+  
   FIXED : SAVING / LOADING config files
+  
   FIXED : Backup to any file
+  
   FIXED : erroneous " from Basic line
+  
   ADDED : Move items up / down 
+  
   ADDED : View cfg from menu with .more
+  
   ADDED : Internet up date  
 
 DOWNLOAD HERE : https://github.com/em00k/zxnext-menuedit/archive/refs/heads/main.zip
