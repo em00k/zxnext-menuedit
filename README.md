@@ -1,6 +1,6 @@
 
-MenuEdit for the ZX Spectrum Next 
----------------------------------
+MenuEdit 1.2 for the ZX Spectrum Next 
+-------------------------------------
 
 Version 1.2 : 15/01/23
 
