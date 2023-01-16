@@ -2,6 +2,8 @@
 MenuEdit for the ZX Spectrum Next 
 ---------------------------------
 
+Version 1.1 : 15/01/23
+
 DOWNLOAD HERE : https://github.com/em00k/zxnext-menuedit/archive/refs/heads/main.zip
 
 This is targeting the latest NextZXOS 2.07l

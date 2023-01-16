@@ -2,6 +2,21 @@ MenuEdit for the ZX Spectrum Next
 ---------------------------------
 NO WARRANTIES! 
 
+1.0 Inital Release 
+
+1.1 Bugs fixed 
+	enMenus.cfg not existing
+	Backup cfg file now works
+	Load cfg file now works
+	
+    New 
+	Move entries up/down
+	View config files (or any other text)
+	Menus tidies up 
+	Internet updates
+	Warning for 2.07 incase too low to support
+
+	
 In NextZXOS v2.7 + you can edit the default
 menu items that appear on start up. This is 
 done my configuring a configuration file in 
