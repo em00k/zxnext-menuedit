@@ -16,6 +16,11 @@ NO WARRANTIES!
 	Internet updates
 	Warning for 2.07 incase too low to support
 
+1.3	Fixed command line > 42 chars and spewing
+	to the top of the screen 
+	
+	Added browser sort files 
+
 	
 In NextZXOS v2.7 + you can edit the default
 menu items that appear on start up. This is 
