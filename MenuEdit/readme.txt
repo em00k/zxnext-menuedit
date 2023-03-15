@@ -28,6 +28,7 @@ NO WARRANTIES!
 
 1.32	Fixed long command lines going crackers, this
 	is no limited to 83 chars
+	Fixed Quit Program wasn't working
 
 	
 In NextZXOS v2.7 + you can edit the default
