@@ -2,6 +2,11 @@
 MenuEdit 1.3 for the ZX Spectrum Next 
 -------------------------------------
 
+Version 1.32 : 15/03/23
+
+  - FIXED : Lone command lines causes memory leak then crash, they are now limited to 83 chars
+  - FIXED : Junk shown on Browser text
+
 Version 1.3 : 15/03/23
 
   - FIXED : Command Line would reset to position 0,0 if > 42 chars, then spew the screen
