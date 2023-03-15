@@ -26,7 +26,8 @@ NO WARRANTIES!
 	Only show OS notification if on lesser
 	version than 2.07l
 
-1.32	Fixed long command lines going crackers
+1.32	Fixed long command lines going crackers, this
+	is no limited to 83 chars
 
 	
 In NextZXOS v2.7 + you can edit the default
