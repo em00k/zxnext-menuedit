@@ -26,6 +26,8 @@ NO WARRANTIES!
 	Only show OS notification if on lesser
 	version than 2.07l
 
+1.32	Fixed long command lines going crackers
+
 	
 In NextZXOS v2.7 + you can edit the default
 menu items that appear on start up. This is 
