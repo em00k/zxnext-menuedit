@@ -21,6 +21,8 @@ NO WARRANTIES!
 	
 	Added browser sort files 
 
+	Added Shortcut Key on left side of menu item
+
 	Only show OS notification if on lesser
 	version than 2.07l
 
