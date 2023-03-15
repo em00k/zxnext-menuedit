@@ -6,7 +6,7 @@ Version 1.3 : 15/03/23
 
   - FIXED : Command Line would reset to position 0,0 if > 42 chars, then spew the screen
   - FIXED : Browser sorting 
-  - FIXED : Only show version warning on of less than 2.07
+  - FIXED : Only show version warning on NZXOS less than 2.07
   - ADDED : CLEAR 65367 to BASIC loaders 
   - ADDED : Shows shortcut key on left of menu items
 
