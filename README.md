@@ -8,6 +8,7 @@ Version 1.3 : 15/03/23
   - FIXED : Browser sorting 
   - FIXED : Only show version warning on of less than 2.07
   - ADDED : CLEAR 65367 to BASIC loaders 
+  - ADDED : Shows shortcut key on left of menu items
 
 Version 1.2 : 15/01/23
   - FIXED : Issue when no enMenus.cfg exist
