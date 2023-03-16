@@ -1,6 +1,6 @@
 
-MenuEdit 1.3 for the ZX Spectrum Next 
--------------------------------------
+MenuEdit 1.40 for the ZX Spectrum Next 
+--------------------------------------
 
 Version 1.40 : 16/03/23 
 
