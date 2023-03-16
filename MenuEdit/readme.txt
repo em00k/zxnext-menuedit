@@ -30,6 +30,17 @@ NO WARRANTIES!
 	is no limited to 83 chars
 	Fixed Quit Program wasn't working
 
+1.40	Changed to now detect extension of file 
+	selected. Templates for NEX,BAS,TAP,SNX,Z80
+
+	Command line now increased to 126 for presets
+
+	FIXED : Last item could not open M menu 
+	FIXED : Auto name from a file
+	ADDED : Shortcuts on menus 1-8 etc 
+	ADDED : Space to exit menu
+	
+	
 	
 In NextZXOS v2.7 + you can edit the default
 menu items that appear on start up. This is 

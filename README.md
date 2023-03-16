@@ -2,6 +2,17 @@
 MenuEdit 1.3 for the ZX Spectrum Next 
 -------------------------------------
 
+Version 1.40 : 16/03/23 
+
+  - FIXED : Last item could not open M menu 
+  - FIXED : Auto menu item name from a selected file
+  - ADDED : Shortcuts on menus 1-8 etc 
+  - ADDED : Space to exit menu
+  - UPDATE: Suggest template from file selected extension
+            templates for : NEX, BAS, TAP, SNX, Z80, SNA
+  - UPDATE: Command line increased to 126 for presets
+  - UPDATE: Other cosmetic changes & under the hood improvments	
+
 Version 1.32 : 15/03/23
 
   - FIXED : Lone command lines causes memory leak then crash, they are now limited to 83 chars
